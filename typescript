@@ -1,0 +1,10 @@
+Script started on Fri Jun 24 21:22:05 2011
+bash-3.2$ ls[Ks
+Gemfile		app		doc		script		vendor
+Gemfile.lock	config		lib		test
+README		config.ru	log		tmp
+Rakefile	db		public		typescript
+bash-3.2$ exit
+exit
+
+Script done on Fri Jun 24 21:22:29 2011

@@ -1,0 +1,8 @@
+
+
+<%@id_sender = post.user_id
+ %>
+
+<p><b> Posted <%= time_ago_in_words(post.created_at) %> ago by <%= @id_sender	 %> </b></p>  
+<p> <%= post.message %> </p>
+
